@@ -1,4 +1,6 @@
 typography_spectrum: 0.5136456654872745
+content_rating:
+  adult: false
 color:
   brandStrength: 0.07581928465515375
   lightness: 0.9174367731902748
@@ -11,6 +13,10 @@ color:
     - '#3D588F'
     - '#C7CAD1'
 layout_spectrum: 0.443962856894359
+author:
+  name: Dug Falby
+  email: dug@goodlookslikethis.com
+  url: 'http://twitter.com/dug'
 name: The networked culture consultancy
 title: Building the bridge
 description: One meaning at a time
