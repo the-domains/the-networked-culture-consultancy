@@ -1,4 +1,3 @@
-layout_spectrum: 0.443962856894359
 typography_spectrum: 0.5136456654872745
 color:
   brandStrength: 0.07581928465515375
@@ -11,4 +10,6 @@ color:
     - '#A62626'
     - '#3D588F'
     - '#C7CAD1'
+layout_spectrum: 0.443962856894359
 name: The networked culture consultancy
+title: Building the bridge
